@@ -8,6 +8,6 @@ Welcome! I'm Terry, a budding game programmer specializing in Godot. Here's a li
 - 💬 Ask me about anything related to Godot, game development, or programming in general. I'm always happy to share knowledge and exchange ideas with fellow nerds.
 - 📫 How to reach me: Feel free to hit me on Github or connect with me on [Twitter](https://twitter.com/KirbyMumbo).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a huge fan of retro games and love incorporating nostalgic elements into my projects. Who doesn't love a good throwback?
+- ⚡ Fun fact: I love composing game music for imaginary RPGs in the style of Koichi Suigyama.
 
 Thanks for stopping by! Let's create some epic games and inspire the next generation of game developers together. 🎮✨
