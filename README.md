@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there! 👋🏾
 
-<!--
-**yoyofyrah/yoyofyrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm Terry, a budding game programmer specializing in Godot. Here's a little bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating goofy 2D games and goofier tools using the power of the Godot engine.
+- 🌱 I’m currently learning all I can about XR and networking in Godot to build social apps to connect with your online friends.
+- 🤔 I’m looking for help with finding the most optimal methods of learning new skills. 
+- 💬 Ask me about anything related to Godot, game development, or programming in general. I'm always happy to share knowledge and exchange ideas with fellow nerds.
+- 📫 How to reach me: Feel free to hit me on Github or connect with me on [Twitter](https://twitter.com/KirbyMumbo).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of retro games and love incorporating nostalgic elements into my projects. Who doesn't love a good throwback?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Let's create some epic games and inspire the next generation of game developers together. 🎮✨
