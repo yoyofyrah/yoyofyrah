@@ -1,6 +1,6 @@
 # Hey there! 👋🏾
 
-Welcome! I'm Terry, a budding game programmer specializing in Godot. Here's a little bit about me:
+Welcome! I'm Terry, a game programmer currently obsessed with building Godot projects. Here's a little bit about me:
 
 - 🔭 I’m currently working on creating goofy 2D games and goofier tools using the power of the Godot engine.
 - 🌱 I’m currently learning all I can about XR and networking in Godot to build social apps to connect with your online friends.
